@@ -2,6 +2,7 @@
 
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 current_datetime=$(date +"%Y_%m_%d_%H_%M_%S")
+SAVES_DIR="$HOME/projects/tmux_resurrect-worktree/master/savefiles/"
 SAVE_DIR="$HOME/projects/tmux_resurrect-worktree/master/savefiles/$current_datetime"
 
 source "$CURRENT_DIR/variables.sh"
@@ -187,6 +188,9 @@ fetch_and_dump_grouped_sessions(){
 	fi
 }
 
+copy_over_past_saves() {
+    cp -nr $SAVES_DIR/last $SAVE_DIR
+}
 # translates pane pid to process command running inside a pane
 dump_panes() {
 	local full_command
