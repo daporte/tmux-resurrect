@@ -73,9 +73,8 @@ restore_pane_contents_true() {
 }
 
 is_restoring_pane_contents() {
-	[ "$RESTORE_PANE_CONTENTS" == "true" ]
+    [ "$RESTORE_PANE_CONTENTS" = "true" ]
 }
-
 restored_session_0_true() {
 	RESTORED_SESSION_0="true"
 }
@@ -174,14 +173,20 @@ new_pane() {
 }
 
 restore_pane() {
+    echo "hereere"
 	local pane="$1"
 	while IFS=$d read line_type session_name window_number window_active window_flags pane_index pane_title dir pane_active pane_command pane_full_command; do
 		dir="$(remove_first_char "$dir")"
+        echo "here"
 		pane_full_command="$(remove_first_char "$pane_full_command")"
-		if [ "$session_name" == "0" ]; then
-			restored_session_0_true
-		fi
+        echo "sesionname$session_name"
+		# if [ "$session_name" == "0" ]; then
+            # echo "here"
+		# 	restored_session_0_true
+		# fi
+        echo "here"
 		if pane_exists "$session_name" "$window_number" "$pane_index"; then
+            echo "there"
 			if is_restoring_from_scratch; then
 				# overwrite the pane
 				# happens only for the first pane if it's the only registered pane for the whole tmux server
@@ -189,15 +194,19 @@ restore_pane() {
 				new_pane "$session_name" "$window_number" "$dir" "$pane_index"
 				tmux kill-pane -t "$pane_id"
 			else
+                echo "overthere"
 				# Pane exists, no need to create it!
 				# Pane existence is registered. Later, its process also won't be restored.
 				register_existing_pane "$session_name" "$window_number" "$pane_index"
 			fi
 		elif window_exists "$session_name" "$window_number"; then
+            echo "overtherethere"
 			new_pane "$session_name" "$window_number" "$dir" "$pane_index"
 		elif session_exists "$session_name"; then
+            echo "noidea"
 			new_window "$session_name" "$window_number" "$dir" "$pane_index"
 		else
+            echo "smth"
 			new_session "$session_name" "$window_number" "$dir" "$pane_index"
 		fi
 		# set pane title

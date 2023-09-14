@@ -196,7 +196,7 @@ dump_panes() {
 			fi
 			full_command="$(pane_full_command $pane_pid)"
 			dir=$(echo $dir | sed 's/ /\\ /') # escape all spaces in directory path
-			echo "${line_type}${d}${session_name}${d}${window_number}${d}${window_active}${d}${window_flags}${d}${pane_index}${d}${pane_title}${d}${dir}${d}${pane_active}${d}${pane_command}${d}:${full_command}"
+			echo "${line_type}${d}${session_name}${d}${window_number}${d}${window_active}${d}${window_flags}${d}${pane_index}${d}${pane_title}${d}${dir}${d}${pane_active}${d}${pane_command}${d}:${full_command}" >> "$PWD/../savefiles/${session_name}.txt"
 		done
 }
 
@@ -210,7 +210,7 @@ dump_windows() {
 			automatic_rename="$(tmux show-window-options -vt "${session_name}:${window_index}" automatic-rename)"
 			# If the option was unset, use ":" as a placeholder.
 			[ -z "${automatic_rename}" ] && automatic_rename=":"
-			echo "${line_type}${d}${session_name}${d}${window_index}${d}${window_name}${d}${window_active}${d}${window_flags}${d}${window_layout}${d}${automatic_rename}"
+			echo "${line_type}${d}${session_name}${d}${window_index}${d}${window_name}${d}${window_active}${d}${window_flags}${d}${window_layout}${d}${automatic_rename}"  >> "$PWD/../savefiles/${session_name}.txt"
 		done
 }
 
@@ -275,4 +275,4 @@ main() {
 		fi
 	fi
 }
-main
+# main
