@@ -1,2 +1,0 @@
-pane	cred	0	1	:*	0	AsusRogFlowArch	:/home/daporte/cred	1	zsh	:
-window	cred	0	:zsh	1	:*	ed86,417x89,0,0,27	:

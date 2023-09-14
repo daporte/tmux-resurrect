@@ -1,7 +1,0 @@
-pane	ls-my_main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-my_main	1	nvim	:nvim -S Session.vim
-pane	ls-my_main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-my_main	1	zsh	:
-pane	ls-my_main	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-my_main	0	zsh	:
-pane	ls-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-my_main	1	zsh	:
-window	ls-my_main	0	:vim	0	:-	76f5,417x89,0,0,215	off
-window	ls-my_main	1	:shell	1	:*	17eb,417x89,0,0{193x89,0,0,216,223x89,194,0,217}	off
-window	ls-my_main	2	:git	0	:	76f8,417x89,0,0,218	off

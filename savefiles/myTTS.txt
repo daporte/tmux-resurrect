@@ -1,9 +1,0 @@
-pane	myTTS	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/myTTS	1	nvim	:nvim
-pane	myTTS	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/myTTS	0	zsh	:
-pane	myTTS	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/myTTS	1	zsh	:
-pane	myTTS	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/myTTS	1	zsh	:
-pane	myTTS	3	0	:	0	AsusRogFlowArch	:/home/daporte/projects/myTTS/my_tts	1	zsh	:
-window	myTTS	0	:nvim	0	:-	76f9,417x89,0,0,238	:
-window	myTTS	1	:zsh	1	:*	597f,417x89,0,0{208x89,0,0,239,208x89,209,0,240}	:
-window	myTTS	2	:zsh	0	:	f6f2,417x89,0,0,241	:
-window	myTTS	3	:zsh	0	:	f6f3,417x89,0,0,242	:

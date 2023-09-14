@@ -1,2 +1,0 @@
-pane	writing	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim isp
-window	writing	0	:nvim	1	:*	b6fa,417x89,0,0,377	:

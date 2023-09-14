@@ -1,3 +1,0 @@
-pane	downloads	0	1	:*	0	AsusRogFlowArch	:/home/daporte/Downloads	0	zsh	:
-pane	downloads	0	1	:*	1	AsusRogFlowArch	:/home/daporte/Downloads	1	zsh	:
-window	downloads	0	:zsh	1	:*	560c,417x89,0,0{217x89,0,0,87,199x89,218,0,88}	:

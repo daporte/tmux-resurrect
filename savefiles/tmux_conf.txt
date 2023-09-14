@@ -1,5 +1,0 @@
-pane	tmux_conf	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim .tmux_remote.conf
-pane	tmux_conf	0	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	tmux_conf	1	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	tmux_conf	0	:nvim	1	:*	7883,417x89,0,0{209x89,0,0,339,207x89,210,0,340}	:
-window	tmux_conf	1	:zsh	0	:-	36f3,417x89,0,0,341	:

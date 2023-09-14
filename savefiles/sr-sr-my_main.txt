@@ -1,6 +1,0 @@
-pane	sr-sr-my_main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree/sr-my_main	1	nvim	:nvim -S Session.vim
-pane	sr-sr-my_main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree/sr-my_main	1	zsh	:
-pane	sr-sr-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree/sr-my_main	1	zsh	:
-window	sr-sr-my_main	0	:vim	0	:-	b6f0,417x89,0,0,310	off
-window	sr-sr-my_main	1	:shell	1	:*	b6f1,417x89,0,0,311	off
-window	sr-sr-my_main	2	:git	0	:	b6f2,417x89,0,0,312	off

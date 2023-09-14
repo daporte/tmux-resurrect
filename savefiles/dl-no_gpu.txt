@@ -1,7 +1,0 @@
-pane	dl-no_gpu	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree/no_gpu	1	nvim	:nvim -S Session.vim
-pane	dl-no_gpu	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree/no_gpu	1	zsh	:
-pane	dl-no_gpu	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree/no_gpu	0	nvim	:nvim last
-pane	dl-no_gpu	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree/no_gpu	1	zsh	:
-window	dl-no_gpu	0	:vim	1	:*	6d85,417x89,0,0,73	off
-window	dl-no_gpu	1	:shell	0	:-	b93e,417x89,0,0{129x89,0,0,74,287x89,130,0,75}	off
-window	dl-no_gpu	2	:git	0	:	6d88,417x89,0,0,76	off

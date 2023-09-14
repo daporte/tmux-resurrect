@@ -1,5 +1,0 @@
-pane	raspberry_pi	0	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	raspberry_pi	1	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	raspberry_pi	1	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-window	raspberry_pi	0	:zsh	0	:-	76fa,417x89,0,0,277	:
-window	raspberry_pi	1	:zsh	1	:*	c888,417x89,0,0{209x89,0,0,278,207x89,210,0,279}	:

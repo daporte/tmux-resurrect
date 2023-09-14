@@ -1,4 +1,0 @@
-pane	nas	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	nas	0	1	:*	1	AsusRogFlowArch	:/mnt	0	zsh	:
-pane	nas	0	1	:*	2	AsusRogFlowArch	:/home/daporte/Downloads	0	zsh	:
-window	nas	0	:zsh	1	:*	6101,417x89,0,0{208x89,0,0[208x45,0,0,245,208x43,0,46,246],208x89,209,0,247}	:

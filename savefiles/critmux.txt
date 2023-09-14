@@ -1,3 +1,0 @@
-pane	critmux	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/critmux	1	zsh	:
-pane	critmux	0	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/critmux	0	zsh	:
-window	critmux	0	:zsh	1	:*	55be,417x89,0,0{274x89,0,0,28,142x89,275,0,29}	:

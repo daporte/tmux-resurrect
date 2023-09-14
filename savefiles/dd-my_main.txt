@@ -1,6 +1,0 @@
-pane	dd-my_main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/devpi_docker-worktree/my_main/devpi_docker	1	nvim	:nvim -S Session.vim
-pane	dd-my_main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/devpi_docker-worktree/my_main/devpi_docker	1	zsh	:
-pane	dd-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/devpi_docker-worktree/my_main	1	zsh	:
-window	dd-my_main	0	:vim	0	:-	6d84,417x89,0,0,34	off
-window	dd-my_main	1	:shell	1	:*	6d85,417x89,0,0,35	off
-window	dd-my_main	2	:git	0	:	6d86,417x89,0,0,36	off

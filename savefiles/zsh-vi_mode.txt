@@ -1,7 +1,0 @@
-pane	zsh-vi_mode	0	0	:-	0	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-vi-mode	1	nvim	:nvim -S Session.vim
-pane	zsh-vi_mode	1	1	:*	0	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-vi-mode	0	zsh	:
-pane	zsh-vi_mode	1	1	:*	1	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-vi-mode	1	zsh	:
-pane	zsh-vi_mode	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	zsh-vi_mode	0	:nvim	0	:-	b6fc,417x89,0,0,398	:
-window	zsh-vi_mode	1	:zsh	1	:*	b6b1,417x89,0,0[417x44,0,0,399,417x44,0,45,400]	:
-window	zsh-vi_mode	2	:zsh	0	:	76f1,417x89,0,0,401	:

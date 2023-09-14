@@ -1,2 +1,0 @@
-pane	ipython_config	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.ipython	1	zsh	:
-window	ipython_config	0	:zsh	1	:*	f6f0,417x89,0,0,201	:

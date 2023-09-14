@@ -1,6 +1,0 @@
-pane	ff-worktree	0	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree	1	zsh	:
-pane	ff-worktree	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree	1	zsh	:
-pane	ff-worktree	2	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree	1	zsh	:
-window	ff-worktree	0	:zsh	0	:	b6f7,417x89,0,0,165	:
-window	ff-worktree	1	:zsh	0	:-	b6f8,417x89,0,0,166	:
-window	ff-worktree	2	:zsh	1	:*	b6f9,417x89,0,0,167	:

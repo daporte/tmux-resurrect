@@ -1,7 +1,0 @@
-pane	ff-zero_out_embeddings	0	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-zero_out_embeddings/fairseq_fork	1	nvim	:nvim -S Session.vim
-pane	ff-zero_out_embeddings	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-zero_out_embeddings/fairseq_fork	1	zsh	:
-pane	ff-zero_out_embeddings	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-zero_out_embeddings	0	zsh	:
-pane	ff-zero_out_embeddings	2	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-zero_out_embeddings	1	zsh	:
-window	ff-zero_out_embeddings	0	:vim	0	:	b6fa,417x89,0,0,168	off
-window	ff-zero_out_embeddings	1	:shell	0	:-	3d42,417x89,0,0{202x89,0,0,169,214x89,203,0,170}	off
-window	ff-zero_out_embeddings	2	:git	1	:*	36f4,417x89,0,0,171	off

@@ -1,3 +1,0 @@
-pane	pacman	1	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	pacman	1	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-window	pacman	1	:zsh	1	:*	1981,417x89,0,0{208x89,0,0,254,208x89,209,0,255}	:

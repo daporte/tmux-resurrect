@@ -1,6 +1,0 @@
-pane	ff-tinyrun	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim -S Session.vim
-pane	ff-tinyrun	1	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	ff-tinyrun	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim
-window	ff-tinyrun	0	:nvim	1	:*	b6f4,417x89,0,0,162	:
-window	ff-tinyrun	1	:zsh	0	:-	b6f5,417x89,0,0,163	:
-window	ff-tinyrun	2	:nvim	0	:	b6f6,417x89,0,0,164	:

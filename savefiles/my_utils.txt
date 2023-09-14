@@ -1,2 +1,0 @@
-pane	my_utils	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/my_packages/my_utils	1	zsh	:
-window	my_utils	0	:zsh	1	:*	f6f4,417x89,0,0,243	:

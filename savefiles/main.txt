@@ -1,6 +1,0 @@
-pane	main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom-worktree/main	1	nvim	:nvim -S Session.vim
-pane	main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom-worktree/main	1	zsh	:
-pane	main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom-worktree/main	1	zsh	:
-window	main	0	:vim	0	:-	76f1,417x89,0,0,230	off
-window	main	1	:shell	1	:*	76f2,417x89,0,0,231	off
-window	main	2	:git	0	:	76f3,417x89,0,0,232	off

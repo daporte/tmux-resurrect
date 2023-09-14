@@ -1,2 +1,0 @@
-pane	tmux_resurrect-worktree	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/tmux_resurrect-worktree	1	zsh	:
-window	tmux_resurrect-worktree	0	:zsh	1	:*	36fa,417x89,0,0,348	:

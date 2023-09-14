@@ -1,8 +1,0 @@
-pane	vimwiki	0	1	:*	0	AsusRogFlowArch	:/home/daporte/vimwiki	1	zsh	:
-pane	vimwiki	0	1	:*	1	AsusRogFlowArch	:/home/daporte/vimwiki	0	zsh	:
-pane	vimwiki	1	0	:-	0	AsusRogFlowArch	:/home/daporte/vimwiki	0	nvim	:nvim asr_pipeline.project.wiki
-pane	vimwiki	1	0	:-	1	AsusRogFlowArch	:/home/daporte/vimwiki	0	nvim	:nvim linux.project.wiki
-pane	vimwiki	1	0	:-	2	AsusRogFlowArch	:/home/daporte/vimwiki	1	zsh	:
-pane	vimwiki	1	0	:-	3	AsusRogFlowArch	:/home/daporte/vimwiki	0	nvim	:nvim tasks.project.wiki
-window	vimwiki	0	:zsh	1	:*	e76c,417x89,0,0{264x89,0,0,367,152x89,265,0,368}	:
-window	vimwiki	1	:zsh	0	:-	bb91,417x89,0,0{106x89,0,0,369,106x89,107,0,370,102x89,214,0,371,100x89,317,0,372}	:

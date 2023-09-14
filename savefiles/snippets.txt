@@ -1,5 +1,0 @@
-pane	snippets	0	0	:-	0	AsusRogFlowArch	:/home/daporte/.config/nvim/my_snippets	1	nvim	:nvim package.json
-pane	snippets	1	1	:*	0	AsusRogFlowArch	:/home/daporte/.config/nvim/my_snippets/snippets	0	nvim	:nvim python.json
-pane	snippets	1	1	:*	1	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim .snippets.txt
-window	snippets	0	:nvim	0	:-	76fd,417x89,0,0,299	:
-window	snippets	1	:nvim	1	:*	5880,417x89,0,0{209x89,0,0,300,207x89,210,0,301}	:

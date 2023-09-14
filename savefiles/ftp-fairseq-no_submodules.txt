@@ -1,4 +1,0 @@
-pane	ftp-fairseq-no_submodules	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/f0_to_phonemes-worktree/ftp-fairseq-no_submodules	1	nvim	:nvim save_to_text_files.py
-pane	ftp-fairseq-no_submodules	1	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	ftp-fairseq-no_submodules	0	:nvim	1	:*	36f9,417x89,0,0,176	:
-window	ftp-fairseq-no_submodules	1	:zsh	0	:-	36fa,417x89,0,0,177	:

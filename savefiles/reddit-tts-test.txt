@@ -1,2 +1,0 @@
-pane	reddit-tts-test	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom-worktree/main	1	zsh	:
-window	reddit-tts-test	0	:zsh	1	:*	f6f8,417x89,0,0,285	:

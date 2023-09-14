@@ -1,3 +1,0 @@
-pane	wacom	0	1	:*	0	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	wacom	0	1	:*	1	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	wacom	0	:zsh	1	:*	3885,417x89,0,0{209x89,0,0,373,207x89,210,0,374}	:

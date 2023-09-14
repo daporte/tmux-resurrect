@@ -1,8 +1,0 @@
-pane	ptenkshell	0	1	:*	0	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim .p10k.zsh
-pane	ptenkshell	0	1	:*	1	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	ptenkshell	1	0	:	0	AsusRogFlowArch	:/home/daporte/projects/task_graph	1	zsh	:
-pane	ptenkshell	2	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/task_graph	0	zsh	:
-pane	ptenkshell	2	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/task_graph	1	zsh	:
-window	ptenkshell	0	:zsh	1	:*	f982,417x89,0,0{208x89,0,0,266,208x89,209,0,267}	:
-window	ptenkshell	1	:zsh	0	:	f6fa,417x89,0,0,268	:
-window	ptenkshell	2	:zsh	0	:-	6884,417x89,0,0{209x89,0,0,269,207x89,210,0,270}	:

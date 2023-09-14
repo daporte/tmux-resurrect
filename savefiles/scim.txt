@@ -1,2 +1,0 @@
-pane	scim	1	1	:*	0	AsusRogFlowArch	:/home/daporte/scim	1	zsh	:
-window	scim	1	:zsh	1	:*	f6fa,417x89,0,0,287	:

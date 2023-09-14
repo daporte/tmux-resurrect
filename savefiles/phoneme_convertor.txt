@@ -1,3 +1,0 @@
-pane	phoneme_convertor	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/my_packages/phoneme_convertor	1	zsh	:
-pane	phoneme_convertor	0	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/my_packages/ml_utils	0	nvim	:nvim pyproject.toml
-window	phoneme_convertor	0	:zsh	1	:*	8886,417x89,0,0{209x89,0,0,256,207x89,210,0,257}	:

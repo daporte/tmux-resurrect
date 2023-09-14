@@ -1,7 +1,0 @@
-pane	ls-tinyrun	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-tinyrun	1	nvim	:nvim -S Session.vim
-pane	ls-tinyrun	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-tinyrun	1	nvim	:nvim Jenkinsfile
-pane	ls-tinyrun	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-tinyrun/libri_tts	0	zsh	:
-pane	ls-tinyrun	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak/ls-tinyrun	1	zsh	:
-window	ls-tinyrun	0	:vim	0	:-	76f9,417x89,0,0,219	off
-window	ls-tinyrun	1	:shell	1	:*	e880,417x89,0,0{209x89,0,0,220,207x89,210,0,221}	off
-window	ls-tinyrun	2	:git	0	:	f6f2,417x89,0,0,222	off

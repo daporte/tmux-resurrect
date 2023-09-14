@@ -1,2 +1,0 @@
-pane	dot_graph	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects	1	zsh	:
-window	dot_graph	0	:zsh	1	:*	ed88,417x89,0,0,86	:

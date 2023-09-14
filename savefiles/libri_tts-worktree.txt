@@ -1,7 +1,0 @@
-pane	libri_tts-worktree	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree	1	zsh	:
-pane	libri_tts-worktree	1	0	:	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak	1	zsh	:
-pane	libri_tts-worktree	1	0	:	1	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak	0	zsh	:
-pane	libri_tts-worktree	2	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/libri_tts-worktree_bak	1	zsh	:
-window	libri_tts-worktree	0	:vim	1	:*	f6f4,417x89,0,0,205	off
-window	libri_tts-worktree	1	:shell	0	:	b7ea,417x89,0,0{193x89,0,0,206,223x89,194,0,207}	off
-window	libri_tts-worktree	2	:git	0	:-	f6f7,417x89,0,0,208	off

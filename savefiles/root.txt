@@ -1,2 +1,0 @@
-pane	root	0	1	:*	0	AsusRogFlowArch	:/var/lib	1	zsh	:
-window	root	0	:zsh	1	:*	f6f9,417x89,0,0,286	:

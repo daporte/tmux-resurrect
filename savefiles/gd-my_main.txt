@@ -1,6 +1,0 @@
-pane	gd-my_main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/graph_dot-test-worktree/gd-my_main/graph_dot-test/sr-repro	1	nvim	:nvim graph.dot.m4
-pane	gd-my_main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/graph_dot-test-worktree/gd-my_main/graph_dot-test/sr-repro	1	zsh	:
-pane	gd-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/graph_dot-test-worktree/gd-my_main	1	zsh	:
-window	gd-my_main	0	:vim	0	:-	b6f9,417x89,0,0,186	off
-window	gd-my_main	1	:shell	1	:*	b6fa,417x89,0,0,187	off
-window	gd-my_main	2	:git	0	:	b6fb,417x89,0,0,188	off

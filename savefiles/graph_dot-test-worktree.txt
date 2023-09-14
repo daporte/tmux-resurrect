@@ -1,7 +1,0 @@
-pane	graph_dot-test-worktree	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/graph_dot-test-worktree	1	zsh	:
-pane	graph_dot-test-worktree	1	0	:	0	AsusRogFlowArch	:/home/daporte/projects/graph_dot-test-worktree	1	zsh	:
-pane	graph_dot-test-worktree	1	0	:	1	AsusRogFlowArch	:/home/daporte/projects/graph_dot-test-worktree	0	zsh	:
-pane	graph_dot-test-worktree	2	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/graph_dot-test-worktree	1	zsh	:
-window	graph_dot-test-worktree	0	:vim	1	:*	b6fc,417x89,0,0,189	off
-window	graph_dot-test-worktree	1	:shell	0	:	67e9,417x89,0,0{193x89,0,0,190,223x89,194,0,191}	off
-window	graph_dot-test-worktree	2	:git	0	:-	36f6,417x89,0,0,192	off

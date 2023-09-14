@@ -1,9 +1,0 @@
-pane	zsh-fzf	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-fzf-history-search	1	nvim	:nvim zsh-fzf-history-search.zsh
-pane	zsh-fzf	0	1	:*	1	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins	0	zsh	:
-pane	zsh-fzf	1	0	:-	0	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-vi-mode	0	zsh	:
-pane	zsh-fzf	1	0	:-	1	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-fzf-history-search	0	zsh	:
-pane	zsh-fzf	1	0	:-	2	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-fzf-history-search	1	nvim	:nvim -c normal! 1go -- /tmp/zshXdrJLc.zsh
-pane	zsh-fzf	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	zsh-fzf	0	:nvim	1	:*	3885,417x89,0,0{209x89,0,0,392,207x89,210,0,393}	:
-window	zsh-fzf	1	:nvim	0	:-	b894,417x89,0,0[417x44,0,0,394,417x44,0,45{209x44,0,45,395,207x44,210,45,396}]	:
-window	zsh-fzf	2	:zsh	0	:	b6fb,417x89,0,0,397	:

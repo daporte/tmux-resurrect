@@ -1,4 +1,0 @@
-pane	tmuxinator	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.config/tmuxinator	1	nvim	:nvim testp.yml
-pane	tmuxinator	0	1	:*	1	daporte@AsusRogFlowArch:~	:/home/daporte	0	zsh	:
-pane	tmuxinator	0	1	:*	2	AsusRogFlowArch	:/home/daporte	0	zsh	:
-window	tmuxinator	0	:nvim	1	:*	984d,417x89,0,0[417x43,0,0{209x43,0,0,352,207x43,210,0,353},417x45,0,44,354]	:

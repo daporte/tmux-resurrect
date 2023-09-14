@@ -1,5 +1,0 @@
-pane	ftp-huggingface	0	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	ftp-huggingface	1	1	:*	0	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	ftp-huggingface	1	1	:*	1	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	ftp-huggingface	0	:zsh	0	:-	36fb,417x89,0,0,178	:
-window	ftp-huggingface	1	:zsh	1	:*	9884,417x89,0,0{209x89,0,0,179,207x89,210,0,180}	:

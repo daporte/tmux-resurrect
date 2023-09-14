@@ -1,4 +1,0 @@
-pane	xrandr	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim .config/i3/config
-pane	xrandr	0	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	xrandr	0	1	:*	2	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim .xinitrc
-window	xrandr	0	:nvim	1	:*	1386,417x89,0,0{208x89,0,0,378,208x89,209,0[208x44,209,0,379,208x44,209,45,380]}	:

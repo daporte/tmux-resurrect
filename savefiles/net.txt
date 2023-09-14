@@ -1,4 +1,0 @@
-pane	net	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	net	0	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	net	0	1	:*	2	AsusRogFlowArch	:/home/daporte	0	zsh	:
-window	net	0	:zsh	1	:*	cdb4,417x89,0,0{219x89,0,0[219x43,0,0,248,219x45,0,44,249],197x89,220,0,250}	:

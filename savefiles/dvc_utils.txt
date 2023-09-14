@@ -1,6 +1,0 @@
-pane	dvc_utils	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/my_packages/dvc_utils	1	nvim	:nvim -S Session.vim
-pane	dvc_utils	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/my_packages/dvc_utils	1	zsh	:nvim isp
-pane	dvc_utils	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/my_packages/dvc_utils	1	zsh	:
-window	dvc_utils	0	:nvim	0	:-	ed8b,417x89,0,0,89	:
-window	dvc_utils	1	:zsh	1	:*	6d83,417x89,0,0,90	:
-window	dvc_utils	2	:zsh	0	:	6d84,417x89,0,0,91	:

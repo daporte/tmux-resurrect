@@ -1,2 +1,0 @@
-pane	asr_rescorer	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree	1	zsh	:
-window	asr_rescorer	0	:zsh	1	:*	ed83,417x89,0,0,24	:

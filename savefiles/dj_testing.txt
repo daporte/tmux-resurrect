@@ -1,7 +1,0 @@
-pane	dj_testing	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	dj_testing	1	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	dj_testing	1	0	:	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	dj_testing	2	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:nvim -S Session.vim
-window	dj_testing	0	:vim	1	:*	ed83,417x89,0,0,62	off
-window	dj_testing	1	:shell	0	:	4e91,417x89,0,0{182x89,0,0,63,234x89,183,0,64}	off
-window	dj_testing	2	:git	0	:-	ed86,417x89,0,0,65	off

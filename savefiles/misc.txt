@@ -1,5 +1,0 @@
-pane	misc	0	0	:-	0	AsusRogFlowArch	:/home/daporte/screenshots	1	zsh	:
-pane	misc	1	1	:*	0	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	misc	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/my_packages	1	zsh	:
-window	misc	0	:zsh	0	:-	76f4,417x89,0,0,233	:
-window	misc	1	:zsh	1	:*	5980,417x89,0,0{208x89,0,0,234,208x89,209,0,235}	:

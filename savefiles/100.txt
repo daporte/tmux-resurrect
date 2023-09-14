@@ -1,2 +1,0 @@
-pane	100	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	100	0	:zsh	1	:*	da9e,417x89,0,0,1	:

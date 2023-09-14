@@ -1,7 +1,0 @@
-pane	ff-add_cfg-tinyrun	0	0	:-	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim -S Session.vim
-pane	ff-add_cfg-tinyrun	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree	1	zsh	:
-pane	ff-add_cfg-tinyrun	1	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	ff-add_cfg-tinyrun	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	ff-add_cfg-tinyrun	0	:vim	0	:-	b6f8,417x89,0,0,109	off
-window	ff-add_cfg-tinyrun	1	:shell	1	:*	5880,417x89,0,0{209x89,0,0,110,207x89,210,0,111}	off
-window	ff-add_cfg-tinyrun	2	:git	0	:	36f2,417x89,0,0,112	off

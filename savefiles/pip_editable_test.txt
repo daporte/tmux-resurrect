@@ -1,3 +1,0 @@
-pane	pip_editable_test	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	pip_editable_test	0	1	:*	1	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim my_utils.py
-window	pip_editable_test	0	:zsh	1	:*	1980,417x89,0,0{208x89,0,0,259,208x89,209,0,260}	:

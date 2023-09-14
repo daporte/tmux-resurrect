@@ -1,7 +1,0 @@
-pane	sd-my_main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree/sd-my_main/setup-dev_env	1	nvim	:nvim compose.yaml
-pane	sd-my_main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree/sd-my_main	1	zsh	:
-pane	sd-my_main	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree/sd-my_main	0	zsh	:
-pane	sd-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree/sd-my_main	1	zsh	:
-window	sd-my_main	0	:vim	0	:-	76f5,417x89,0,0,291	off
-window	sd-my_main	1	:shell	1	:*	17eb,417x89,0,0{193x89,0,0,292,223x89,194,0,293}	off
-window	sd-my_main	2	:git	0	:	76f8,417x89,0,0,294	off

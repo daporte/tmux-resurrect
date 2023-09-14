@@ -1,7 +1,0 @@
-pane	dj_lol	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	dj_lol	1	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	dj_lol	1	0	:	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	dj_lol	2	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	dj_lol	0	:vim	1	:*	6d85,417x89,0,0,54	off
-window	dj_lol	1	:shell	0	:	ce92,417x89,0,0{182x89,0,0,55,234x89,183,0,56}	off
-window	dj_lol	2	:git	0	:-	6d88,417x89,0,0,57	off

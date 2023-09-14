@@ -1,2 +1,0 @@
-pane	systemd	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	systemd	0	:zsh	1	:*	b6f9,417x89,0,0,319	:

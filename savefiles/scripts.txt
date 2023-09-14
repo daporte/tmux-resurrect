@@ -1,6 +1,0 @@
-pane	scripts	0	1	:*	0	AsusRogFlowArch	:/home/daporte/scripts	1	nvim	:nvim tmux_make_session.sh
-pane	scripts	1	0	:-	0	AsusRogFlowArch	:/home/daporte/scripts	1	zsh	:
-pane	scripts	2	0	:	0	AsusRogFlowArch	:/home/daporte/scripts	1	zsh	:
-window	scripts	0	:nvim	1	:*	f6fb,417x89,0,0,288	:
-window	scripts	1	:zsh	0	:-	f6fc,417x89,0,0,289	:
-window	scripts	2	:zsh	0	:	76f4,417x89,0,0,290	:

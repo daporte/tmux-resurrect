@@ -1,4 +1,0 @@
-pane	tmuxifier	0	1	:*	0	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim /home/daporte/.tmux/plugins/tmuxifier/layouts/tst.session.sh
-pane	tmuxifier	0	1	:*	1	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim /home/daporte/.tmux/plugins/tmuxifier/layouts/git_graph.window.sh
-pane	tmuxifier	0	1	:*	2	AsusRogFlowArch	:/home/daporte/.tmux/plugins/tmuxifier	0	zsh	:
-window	tmuxifier	0	:nvim	1	:*	8e70,417x89,0,0{209x89,0,0[209x44,0,0,349,209x44,0,45,350],207x89,210,0,351}	:

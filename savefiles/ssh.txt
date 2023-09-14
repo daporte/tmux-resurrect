@@ -1,4 +1,0 @@
-pane	ssh	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.ssh	0	nvim	:nvim config
-pane	ssh	0	1	:*	1	AsusRogFlowArch	:/home/daporte/.ssh	1	zsh	:
-pane	ssh	0	1	:*	2	AsusRogFlowArch	:/home/daporte/.ssh	0	zsh	:
-window	ssh	0	:zsh	1	:*	0430,417x89,0,0{209x89,0,0,316,207x89,210,0[207x42,210,0,317,207x46,210,43,318]}	:

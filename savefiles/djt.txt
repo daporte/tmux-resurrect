@@ -1,7 +1,0 @@
-pane	djt	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	djt	1	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	djt	1	0	:	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
-pane	djt	2	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:/home/daporte/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 32
-window	djt	0	:vim	1	:*	ed87,417x89,0,0,66	off
-window	djt	1	:shell	0	:	4e95,417x89,0,0{182x89,0,0,67,234x89,183,0,68}	off
-window	djt	2	:git	0	:-	ed8a,417x89,0,0,69	off

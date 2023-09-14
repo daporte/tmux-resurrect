@@ -1,2 +1,0 @@
-pane	jenkins	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/jenkins_docker-worktree/dj-my_main	1	nvim	:nvim
-window	jenkins	0	:nvim	1	:*	f6f1,417x89,0,0,202	:

@@ -1,6 +1,0 @@
-pane	luasnip_telescope	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim -S Session.vim
-pane	luasnip_telescope	1	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	luasnip_telescope	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-window	luasnip_telescope	0	:nvim	1	:*	f6f7,417x89,0,0,227	:
-window	luasnip_telescope	1	:zsh	0	:-	f6f8,417x89,0,0,228	:
-window	luasnip_telescope	2	:zsh	0	:	f6f9,417x89,0,0,229	:

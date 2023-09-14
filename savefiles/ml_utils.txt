@@ -1,3 +1,0 @@
-pane	ml_utils	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/my_packages/ml_utils	0	nvim	:nvim ml_utils/split_files_in_dir.py
-pane	ml_utils	0	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/my_packages/ml_utils	1	zsh	:
-window	ml_utils	0	:zsh	1	:*	c885,417x89,0,0{209x89,0,0,236,207x89,210,0,237}	:

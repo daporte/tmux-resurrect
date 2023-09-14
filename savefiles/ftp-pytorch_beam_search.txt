@@ -1,3 +1,0 @@
-pane	ftp-pytorch_beam_search	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
-pane	ftp-pytorch_beam_search	0	1	:*	1	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim dvc_template.yaml
-window	ftp-pytorch_beam_search	0	:zsh	1	:*	ba3b,417x89,0,0{210x89,0,0,181,206x89,211,0,182}	:

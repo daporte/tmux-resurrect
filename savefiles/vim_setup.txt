@@ -1,6 +1,0 @@
-pane	vim_setup	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.config/nvim	1	nvim	:nvim after/plugin/telescope.lua
-pane	vim_setup	1	0	:-	0	AsusRogFlowArch	:/home/daporte/.config/nvim	1	zsh	:
-pane	vim_setup	2	0	:	0	AsusRogFlowArch	:/home/daporte/.config/nvim	1	zsh	:
-window	vim_setup	0	:nvim	1	:*	36f6,417x89,0,0,363	:
-window	vim_setup	1	:zsh	0	:-	36f7,417x89,0,0,364	:
-window	vim_setup	2	:zsh	0	:	36f8,417x89,0,0,365	:
