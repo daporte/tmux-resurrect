@@ -1,0 +1,7 @@
+pane	ff-fullrun	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-fullrun	1	nvim	:nvim -S Session.vim
+pane	ff-fullrun	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-fullrun	1	zsh	:
+pane	ff-fullrun	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-fullrun	0	zsh	:
+pane	ff-fullrun	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-fullrun	1	zsh	:
+window	ff-fullrun	0	:vim	0	:-	36f5,417x89,0,0,134	off
+window	ff-fullrun	1	:shell	1	:*	e7ea,417x89,0,0{193x89,0,0,135,223x89,194,0,136}	off
+window	ff-fullrun	2	:git	0	:	36f8,417x89,0,0,137	off

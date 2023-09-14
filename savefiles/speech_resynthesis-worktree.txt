@@ -1,0 +1,7 @@
+pane	speech_resynthesis-worktree	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree	1	zsh	:
+pane	speech_resynthesis-worktree	1	0	:	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree	1	zsh	:
+pane	speech_resynthesis-worktree	1	0	:	1	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree	0	zsh	:
+pane	speech_resynthesis-worktree	2	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree	1	zsh	:
+window	speech_resynthesis-worktree	0	:vim	1	:*	36f2,417x89,0,0,302	off
+window	speech_resynthesis-worktree	1	:shell	0	:	9e20,417x89,0,0{169x89,0,0,303,247x89,170,0,304}	off
+window	speech_resynthesis-worktree	2	:git	0	:-	36f5,417x89,0,0,305	off

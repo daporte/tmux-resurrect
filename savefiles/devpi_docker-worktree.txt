@@ -1,0 +1,7 @@
+pane	devpi_docker-worktree	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/devpi_docker-worktree	1	zsh	:/home/daporte/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 32
+pane	devpi_docker-worktree	1	0	:	0	AsusRogFlowArch	:/home/daporte/projects/devpi_docker-worktree	1	zsh	:
+pane	devpi_docker-worktree	1	0	:	1	AsusRogFlowArch	:/home/daporte/projects/devpi_docker-worktree	0	zsh	:
+pane	devpi_docker-worktree	2	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/devpi_docker-worktree	1	zsh	:
+window	devpi_docker-worktree	0	:vim	1	:*	ed85,417x89,0,0,45	off
+window	devpi_docker-worktree	1	:shell	0	:	54b7,417x89,0,0{193x89,0,0,46,223x89,194,0,47}	off
+window	devpi_docker-worktree	2	:git	0	:-	ed88,417x89,0,0,48	off

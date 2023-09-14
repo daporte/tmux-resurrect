@@ -1,0 +1,3 @@
+pane	librispeech-fullrun	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim dvc_template.yaml
+pane	librispeech-fullrun	0	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
+window	librispeech-fullrun	0	:nvim	1	:*	c882,417x89,0,0{209x89,0,0,213,207x89,210,0,214}	:

@@ -1,0 +1,9 @@
+pane	reddit-tts-gui	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom-worktree/main	1	nvim	:nvim
+pane	reddit-tts-gui	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom-worktree/main	1	zsh	:
+pane	reddit-tts-gui	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom-worktree/main	0	zsh	:
+pane	reddit-tts-gui	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom	1	zsh	:
+pane	reddit-tts-gui	3	0	:	0	AsusRogFlowArch	:/home/daporte/projects/reddit-tts-gui_custom	1	zsh	:
+window	reddit-tts-gui	0	:nvim	0	:-	f6f3,417x89,0,0,280	:
+window	reddit-tts-gui	1	:zsh	1	:*	f564,417x89,0,0{225x89,0,0,281,191x89,226,0,282}	:
+window	reddit-tts-gui	2	:zsh	0	:	f6f6,417x89,0,0,283	:
+window	reddit-tts-gui	3	:zsh	0	:	f6f7,417x89,0,0,284	:

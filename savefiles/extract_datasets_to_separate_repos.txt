@@ -1,0 +1,7 @@
+pane	extract_datasets_to_separate_repos	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects	1	zsh	:
+pane	extract_datasets_to_separate_repos	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree_filtered/extract_datasets_to_separate_repos	1	zsh	:
+pane	extract_datasets_to_separate_repos	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree_filtered/extract_datasets_to_separate_repos	0	zsh	:
+pane	extract_datasets_to_separate_repos	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree_filtered/extract_datasets_to_separate_repos	1	zsh	:
+window	extract_datasets_to_separate_repos	0	:vim	1	:*	6d8a,417x89,0,0,97	off
+window	extract_datasets_to_separate_repos	1	:shell	0	:-	d7f3,417x89,0,0{208x89,0,0,98,208x89,209,0,99}	off
+window	extract_datasets_to_separate_repos	2	:git	0	:	b6ef,417x89,0,0,100	off

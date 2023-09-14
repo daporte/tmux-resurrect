@@ -1,0 +1,8 @@
+pane	default	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects	1	zsh	:
+pane	default	0	0	:-	1	AsusRogFlowArch	:/home/daporte/projects	0	zsh	:
+pane	default	0	0	:-	2	AsusRogFlowArch	:/home/daporte/.fzf	0	zsh	:
+pane	default	1	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	default	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	default	0	:zsh	0	:-	6584,417x89,0,0[417x44,0,0,37,417x44,0,45{208x44,0,45,38,208x44,209,45,39}]	:
+window	default	1	:zsh	1	:*	ed80,417x89,0,0,40	:
+window	default	2	:zsh	0	:	ed81,417x89,0,0,41	:

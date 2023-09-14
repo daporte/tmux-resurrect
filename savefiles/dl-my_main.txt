@@ -1,0 +1,6 @@
+pane	dl-my_main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree/my_main/docker_local	1	nvim	:nvim -S Session.vim
+pane	dl-my_main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree/my_main	1	zsh	:
+pane	dl-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree/my_main	1	zsh	:/home/daporte/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 32
+window	dl-my_main	0	:vim	0	:-	6d82,417x89,0,0,70	off
+window	dl-my_main	1	:shell	1	:*	6d83,417x89,0,0,71	off
+window	dl-my_main	2	:git	0	:	6d84,417x89,0,0,72	off

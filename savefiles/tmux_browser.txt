@@ -1,0 +1,2 @@
+pane	tmux_browser	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/tmux-browser	1	nvim	:nvim
+window	tmux_browser	0	:nvim	1	:*	b6f9,417x89,0,0,338	:

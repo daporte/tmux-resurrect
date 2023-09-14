@@ -1,0 +1,4 @@
+pane	devpi	2	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/devpi-index	0	nvim	:nvim gen-config/nginx-devpi.conf
+pane	devpi	2	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/devpi-index	0	zsh	:
+pane	devpi	2	1	:*	2	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	devpi	2	:zsh	1	:*	22de,417x89,0,0{208x89,0,0[208x45,0,0,42,208x43,0,46,43],208x89,209,0,44}	:

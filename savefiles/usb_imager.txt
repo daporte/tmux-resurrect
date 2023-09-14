@@ -1,0 +1,2 @@
+pane	usb_imager	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	usb_imager	0	:zsh	1	:*	36f5,417x89,0,0,362	:

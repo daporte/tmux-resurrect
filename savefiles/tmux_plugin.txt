@@ -1,0 +1,7 @@
+pane	tmux_plugin	0	0	:-	0	AsusRogFlowArch	:/home/daporte/.tmux/plugins/tmux-fzf	1	nvim	:nvim -S Session.vim
+pane	tmux_plugin	1	1	:*	0	AsusRogFlowArch	:/home/daporte/.tmux/plugins/tmux-fzf/scripts	0	zsh	:
+pane	tmux_plugin	1	1	:*	1	AsusRogFlowArch	:/home/daporte/.tmux_session_groups/active	1	zsh	:
+pane	tmux_plugin	2	0	:	0	AsusRogFlowArch	:/home/daporte/.tmux/plugins/tmux-fzf/scripts	1	zsh	:
+window	tmux_plugin	0	:nvim	0	:-	36f4,417x89,0,0,342	:
+window	tmux_plugin	1	:zsh	1	:*	56b0,417x89,0,0[417x44,0,0,343,417x44,0,45,344]	:
+window	tmux_plugin	2	:zsh	0	:	36f7,417x89,0,0,345	:

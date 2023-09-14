@@ -1,0 +1,2 @@
+pane	omz	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.oh-my-zsh/custom/plugins/zsh-fzf-history-search	1	zsh	:
+window	omz	0	:zsh	1	:*	76f3,417x89,0,0,251	:

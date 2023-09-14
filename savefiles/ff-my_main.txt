@@ -1,0 +1,10 @@
+pane	ff-my_main	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-my_main	1	nvim	:nvim -S Session.vim
+pane	ff-my_main	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-my_main/fairseq_fork	1	zsh	:
+pane	ff-my_main	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-my_main	0	zsh	:
+pane	ff-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-my_main	1	zsh	:
+pane	ff-my_main	3	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-my_main	0	nvim	:nvim fairseq_cli/generate.py
+pane	ff-my_main	3	0	:	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-my_main	1	zsh	:
+window	ff-my_main	0	:nvim	1	:*	b6f6,417x89,0,0,145	:
+window	ff-my_main	1	:zsh	0	:-	f885,417x89,0,0{209x89,0,0,146,207x89,210,0,147}	:
+window	ff-my_main	2	:zsh	0	:	b6f9,417x89,0,0,148	:
+window	ff-my_main	3	:zsh	0	:	7883,417x89,0,0{209x89,0,0,149,207x89,210,0,150}	:

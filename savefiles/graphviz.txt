@@ -1,0 +1,2 @@
+pane	graphviz	0	1	:*	0	TpgZ	:/home/daporte/projects/graphviz	1	zsh	:
+window	graphviz	0	:zsh	1	:*	36f7,417x89,0,0,193	:

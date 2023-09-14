@@ -1,0 +1,6 @@
+pane	ff-remove_embedding_tweaks	0	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-remove_embedding_tweaks	1	nvim	:nvim -S Session.vim
+pane	ff-remove_embedding_tweaks	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-remove_embedding_tweaks	1	zsh	:
+pane	ff-remove_embedding_tweaks	2	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-remove_embedding_tweaks	1	nvim	:nvim
+window	ff-remove_embedding_tweaks	0	:nvim	0	:	36f7,417x89,0,0,155	:
+window	ff-remove_embedding_tweaks	1	:zsh	0	:-	36f8,417x89,0,0,156	:
+window	ff-remove_embedding_tweaks	2	:nvim	1	:*	36f9,417x89,0,0,157	:

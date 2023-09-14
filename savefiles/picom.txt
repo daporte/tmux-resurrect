@@ -1,0 +1,2 @@
+pane	picom	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.config/picom	1	nvim	:nvim picom.conf
+window	picom	0	:nvim	1	:*	76fa,417x89,0,0,258	:

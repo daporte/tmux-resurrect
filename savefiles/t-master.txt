@@ -1,0 +1,9 @@
+pane	t-master	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	t-master	1	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	t-master	1	0	:	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
+pane	t-master	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	t-master	3	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	t-master	0	:vim	1	:*	36f1,417x89,0,0,320	off
+window	t-master	1	:shell	0	:	8f98,417x89,0,0{80x89,0,0,321,336x89,81,0,322}	off
+window	t-master	2	:git	0	:	36f4,417x89,0,0,323	off
+window	t-master	3	:ipython	0	:-	36f5,417x89,0,0,324	off

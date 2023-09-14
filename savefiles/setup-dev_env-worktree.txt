@@ -1,0 +1,7 @@
+pane	setup-dev_env-worktree	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree/sd-my_main	1	nvim	:nvim -S Session.vim
+pane	setup-dev_env-worktree	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree	1	zsh	:
+pane	setup-dev_env-worktree	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree	0	zsh	:
+pane	setup-dev_env-worktree	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/setup-dev_env-worktree	1	zsh	:
+window	setup-dev_env-worktree	0	:vim	1	:*	76f9,417x89,0,0,295	off
+window	setup-dev_env-worktree	1	:shell	0	:-	17ee,417x89,0,0{193x89,0,0,296,223x89,194,0,297}	off
+window	setup-dev_env-worktree	2	:git	0	:	76fc,417x89,0,0,298	off

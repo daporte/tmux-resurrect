@@ -1,0 +1,11 @@
+pane	ff-isolate_model_generation	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-isolate_model_generation/fairseq_fork	1	nvim	:nvim -S Session.vim
+pane	ff-isolate_model_generation	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-isolate_model_generation/fairseq_fork	0	zsh	:
+pane	ff-isolate_model_generation	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-isolate_model_generation/fairseq_fork	1	zsh	:
+pane	ff-isolate_model_generation	1	1	:*	2	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-isolate_model_generation/fairseq_fork	0	zsh	:
+pane	ff-isolate_model_generation	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-isolate_model_generation	1	nvim	:nvim
+pane	ff-isolate_model_generation	3	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-isolate_model_generation	0	zsh	:
+pane	ff-isolate_model_generation	3	0	:	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-isolate_model_generation/fairseq_fork	1	zsh	:
+window	ff-isolate_model_generation	0	:nvim	0	:-	36f9,417x89,0,0,138	:
+window	ff-isolate_model_generation	1	:zsh	1	:*	eaca,417x89,0,0{124x89,0,0,139,124x89,125,0,140,167x89,250,0,141}	:
+window	ff-isolate_model_generation	2	:nvim	0	:	b6f3,417x89,0,0,142	:
+window	ff-isolate_model_generation	3	:zsh	0	:	c97f,417x89,0,0{208x89,0,0,143,208x89,209,0,144}	:

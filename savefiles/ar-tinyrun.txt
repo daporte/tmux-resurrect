@@ -1,0 +1,6 @@
+pane	ar-tinyrun	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-tinyrun	1	zsh	:
+pane	ar-tinyrun	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-tinyrun	1	zsh	:
+pane	ar-tinyrun	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-tinyrun	1	zsh	:
+window	ar-tinyrun	0	:vim	0	:-	6d88,417x89,0,0,19	off
+window	ar-tinyrun	1	:shell	1	:*	ed7f,417x89,0,0,20	off
+window	ar-tinyrun	2	:git	0	:	ed80,417x89,0,0,21	off

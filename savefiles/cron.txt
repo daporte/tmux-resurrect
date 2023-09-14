@@ -1,0 +1,3 @@
+pane	cron	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.zsh_notes	0	zsh	:
+pane	cron	0	1	:*	1	AsusRogFlowArch	:/home/daporte/.zsh_history_dir	1	zsh	:
+window	cron	0	:zsh	1	:*	b600,417x89,0,0{209x89,0,0,30,207x89,210,0,31}	:

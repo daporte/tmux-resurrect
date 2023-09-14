@@ -1,0 +1,9 @@
+pane	ar-my_main	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-my_main	1	nvim	:nvim -S Session.vim
+pane	ar-my_main	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-my_main	0	nvim	:nvim -S Session.vim
+pane	ar-my_main	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-my_main	1	zsh	:
+pane	ar-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-my_main	1	zsh	:
+pane	ar-my_main	3	0	:	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-my_main	1	nvim	:nvim
+window	ar-my_main	0	:nvim	0	:-	6d83,417x89,0,0,14	:
+window	ar-my_main	1	:zsh	1	:*	b604,417x89,0,0{209x89,0,0,15,207x89,210,0,16}	:
+window	ar-my_main	2	:zsh	0	:	6d86,417x89,0,0,17	:
+window	ar-my_main	3	:nvim	0	:	6d87,417x89,0,0,18	:

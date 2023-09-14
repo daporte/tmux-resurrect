@@ -1,0 +1,7 @@
+pane	ff-add_cython_build	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_cython_build	1	nvim	:nvim -S Session.vim
+pane	ff-add_cython_build	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_cython_build/fairseq_fork	1	zsh	:
+pane	ff-add_cython_build	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_cython_build	0	zsh	:
+pane	ff-add_cython_build	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_cython_build	1	zsh	:
+window	ff-add_cython_build	0	:vim	0	:-	36f3,417x89,0,0,113	off
+window	ff-add_cython_build	1	:shell	1	:*	6047,417x89,0,0{213x89,0,0,114,203x89,214,0,115}	off
+window	ff-add_cython_build	2	:git	0	:	36f6,417x89,0,0,116	off

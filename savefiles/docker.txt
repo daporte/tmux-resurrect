@@ -1,0 +1,8 @@
+pane	docker	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/docker_test	1	nvim	:nvim -S Session.vim
+pane	docker	1	1	:*	0	developer@2dba7a044341:/	:/home/daporte/projects/docker_test	0	zsh	:
+pane	docker	1	1	:*	1	AsusRogFlowArch	:/home/daporte/cred	1	zsh	:
+pane	docker	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/docker_test	0	zsh	:
+pane	docker	2	0	:	1	AsusRogFlowArch	:/home/daporte/projects/docker_test	1	zsh	:
+window	docker	0	:nvim	0	:-	6d89,417x89,0,0,77	:
+window	docker	1	:zsh	1	:*	d7f2,417x89,0,0{208x89,0,0,78,208x89,209,0,79}	:
+window	docker	2	:zsh	0	:	3603,417x89,0,0{209x89,0,0,80,207x89,210,0,81}	:

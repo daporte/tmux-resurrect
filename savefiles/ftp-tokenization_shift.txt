@@ -1,0 +1,4 @@
+pane	ftp-tokenization_shift	0	1	:*	0	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim dvc_template.yaml
+pane	ftp-tokenization_shift	0	1	:*	1	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	ftp-tokenization_shift	0	1	:*	2	AsusRogFlowArch	:/home/daporte	0	zsh	:
+window	ftp-tokenization_shift	0	:zsh	1	:*	4372,417x89,0,0[417x46,0,0,183,417x42,0,47{209x42,0,47,184,207x42,210,47,185}]	:

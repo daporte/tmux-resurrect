@@ -1,0 +1,7 @@
+pane	ff-freeze_embeddings	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-freeze_embeddings	0	nvim	:nvim fairseq_fork/fairseq/models/transformer/transformer_encoder.py
+pane	ff-freeze_embeddings	0	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-freeze_embeddings	1	zsh	:
+pane	ff-freeze_embeddings	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-freeze_embeddings	1	zsh	:
+pane	ff-freeze_embeddings	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-freeze_embeddings	1	nvim	:nvim
+window	ff-freeze_embeddings	0	:zsh	1	:*	1881,417x89,0,0{209x89,0,0,130,207x89,210,0,131}	:
+window	ff-freeze_embeddings	1	:zsh	0	:-	36f3,417x89,0,0,132	:
+window	ff-freeze_embeddings	2	:nvim	0	:	36f4,417x89,0,0,133	:

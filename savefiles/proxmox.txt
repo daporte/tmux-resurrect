@@ -1,0 +1,4 @@
+pane	proxmox	0	1	:*	0	developer@4a1a63462aca:/	:/home/daporte/.ssh	1	zsh	:
+pane	proxmox	0	1	:*	1	AsusRogFlowArch	:/home/daporte/.ssh	0	zsh	:
+pane	proxmox	0	1	:*	2	AsusRogFlowArch	:/home/daporte/.ssh	0	zsh	:
+window	proxmox	0	:zsh	1	:*	1c91,417x89,0,0[417x44,0,0,263,417x44,0,45{209x44,0,45,264,207x44,210,45,265}]	:

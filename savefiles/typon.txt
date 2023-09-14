@@ -1,0 +1,2 @@
+pane	typon	0	1	:*	0	AsusRogFlowArch	:/home/daporte/Typon/Typon	1	zsh	:
+window	typon	0	:zsh	1	:*	b6fb,417x89,0,0,359	:

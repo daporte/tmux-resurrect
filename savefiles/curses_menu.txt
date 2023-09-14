@@ -1,0 +1,4 @@
+pane	curses_menu	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/curses-menu	1	nvim	:nvim -S Session.vim
+pane	curses_menu	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/curses-menu	1	zsh	:
+window	curses_menu	0	:nvim	0	:-	6d82,417x89,0,0,32	:
+window	curses_menu	1	:zsh	1	:*	6d83,417x89,0,0,33	:

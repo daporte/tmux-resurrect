@@ -1,0 +1,7 @@
+pane	ff-zero_out_embeddings-tinyrun	0	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	ff-zero_out_embeddings-tinyrun	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree	1	zsh	:
+pane	ff-zero_out_embeddings-tinyrun	1	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
+pane	ff-zero_out_embeddings-tinyrun	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	ff-zero_out_embeddings-tinyrun	0	:vim	0	:-	36f5,417x89,0,0,172	off
+window	ff-zero_out_embeddings-tinyrun	1	:shell	1	:*	dd42,417x89,0,0{202x89,0,0,173,214x89,203,0,174}	off
+window	ff-zero_out_embeddings-tinyrun	2	:git	0	:	36f8,417x89,0,0,175	off

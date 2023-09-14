@@ -1,0 +1,7 @@
+pane	ff-remove_breakpoints	0	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-remove_breakpoints	1	nvim	:nvim -S Session.vim
+pane	ff-remove_breakpoints	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-remove_breakpoints	1	zsh	:
+pane	ff-remove_breakpoints	1	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-remove_breakpoints	0	zsh	:
+pane	ff-remove_breakpoints	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-remove_breakpoints	1	zsh	:
+window	ff-remove_breakpoints	0	:vim	0	:-	36f3,417x89,0,0,151	off
+window	ff-remove_breakpoints	1	:shell	1	:*	67e9,417x89,0,0{193x89,0,0,152,223x89,194,0,153}	off
+window	ff-remove_breakpoints	2	:git	0	:	36f6,417x89,0,0,154	off

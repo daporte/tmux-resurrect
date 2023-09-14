@@ -1,0 +1,4 @@
+pane	taskserver	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.task	0	zsh	:
+pane	taskserver	0	1	:*	1	AsusRogFlowArch	:/home/daporte/.task	1	zsh	:
+pane	taskserver	0	1	:*	2	AsusRogFlowArch	:/home/daporte	0	zsh	:
+window	taskserver	0	:zsh	1	:*	c08d,417x89,0,0{211x89,0,0[211x45,0,0,325,211x43,0,46,326],205x89,212,0,327}	:

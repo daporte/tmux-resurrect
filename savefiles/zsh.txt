@@ -1,0 +1,9 @@
+pane	zsh	0	1	:*	0	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim .zshrc
+pane	zsh	0	1	:*	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
+pane	zsh	0	1	:*	2	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	zsh	1	0	:-	0	AsusRogFlowArch	:/home/daporte	0	zsh	:
+pane	zsh	1	0	:-	1	AsusRogFlowArch	:/home/daporte/.zsh_notes	1	zsh	:
+pane	zsh	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	zsh	0	:zsh	1	:*	9f83,417x89,0,0{208x89,0,0,386,208x89,209,0[208x45,209,0,387,208x43,209,46,388]}	:
+window	zsh	1	:zsh	0	:-	8633,417x89,0,0[417x61,0,0,389,417x27,0,62,390]	:
+window	zsh	2	:zsh	0	:	b6f5,417x89,0,0,391	:

@@ -1,0 +1,8 @@
+pane	eve_business	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/eve	0	nvim	:nvim eve_business_pure.py
+pane	eve_business	0	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/eve	1	zsh	:
+pane	eve_business	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/eve-market-strategies	0	zsh	:
+pane	eve_business	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/eve-market-strategies	1	zsh	:
+pane	eve_business	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/eve	1	zsh	:
+window	eve_business	0	:zsh	1	:*	d2a9,417x89,0,0{164x89,0,0,92,252x89,165,0,93}	:
+window	eve_business	1	:zsh	0	:-	d7ef,417x89,0,0{208x89,0,0,94,208x89,209,0,95}	:
+window	eve_business	2	:zsh	0	:	6d89,417x89,0,0,96	:

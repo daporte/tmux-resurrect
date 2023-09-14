@@ -1,0 +1,7 @@
+pane	extract_embedding_vectors	0	1	:*	0	AsusRogFlowArch	:/home/daporte	0	nvim	:nvim -S Session.vim
+pane	extract_embedding_vectors	0	1	:*	1	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	extract_embedding_vectors	1	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	extract_embedding_vectors	2	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	extract_embedding_vectors	0	:zsh	1	:*	ce99,417x89,0,0{258x89,0,0,101,158x89,259,0,102}	:
+window	extract_embedding_vectors	1	:zsh	0	:	b6f2,417x89,0,0,103	:
+window	extract_embedding_vectors	2	:zsh	0	:-	b6f3,417x89,0,0,104	:

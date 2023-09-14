@@ -1,0 +1,7 @@
+pane	docker_local-worktree	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/docker_local-worktree	1	zsh	:
+pane	docker_local-worktree	1	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	docker_local-worktree	1	0	:-	1	AsusRogFlowArch	:/home/daporte	0	zsh	:
+pane	docker_local-worktree	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	docker_local-worktree	0	:vim	1	:*	ed84,417x89,0,0,82	off
+window	docker_local-worktree	1	:shell	0	:-	54b6,417x89,0,0{193x89,0,0,83,223x89,194,0,84}	off
+window	docker_local-worktree	2	:git	0	:	ed87,417x89,0,0,85	off

@@ -1,0 +1,2 @@
+pane	mysql	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	mysql	0	:zsh	1	:*	f6f5,417x89,0,0,244	:

@@ -1,0 +1,6 @@
+pane	sr-sr-tinyrun	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree/sr-tinyrun	1	nvim	:nvim -S Session.vim
+pane	sr-sr-tinyrun	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree/sr-tinyrun	1	zsh	:
+pane	sr-sr-tinyrun	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/speech_resynthesis-worktree/sr-tinyrun	1	zsh	:
+window	sr-sr-tinyrun	0	:vim	1	:*	b6f3,417x89,0,0,313	off
+window	sr-sr-tinyrun	1	:shell	0	:-	b6f4,417x89,0,0,314	off
+window	sr-sr-tinyrun	2	:git	0	:	b6f5,417x89,0,0,315	off

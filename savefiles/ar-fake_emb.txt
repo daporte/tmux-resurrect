@@ -1,0 +1,6 @@
+pane	ar-fake_emb	0	0	:	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-fake_emb	1	zsh	:
+pane	ar-fake_emb	1	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-fake_emb	1	zsh	:
+pane	ar-fake_emb	2	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/asr_rescorer-worktree/ar-fake_emb	1	zsh	:
+window	ar-fake_emb	0	:zsh	0	:	daa4,417x89,0,0,7	:
+window	ar-fake_emb	1	:zsh	1	:*	daa5,417x89,0,0,8	:
+window	ar-fake_emb	2	:zsh	0	:-	daa6,417x89,0,0,9	:

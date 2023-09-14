@@ -1,0 +1,2 @@
+pane	display	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	display	0	:zsh	1	:*	ed89,417x89,0,0,49	:

@@ -1,0 +1,7 @@
+pane	dj-my_main	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/jenkins_docker-worktree/dj-my_main	1	nvim	:nvim -S Session.vim
+pane	dj-my_main	1	0	:-	0	root@c3ca4cfb4ce5: ~	:/home/daporte/projects/jenkins_docker-worktree/dj-my_main/jenkins_docker	1	zsh	:
+pane	dj-my_main	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/jenkins_docker-worktree/dj-my_main/jenkins_docker	0	zsh	:
+pane	dj-my_main	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/jenkins_docker-worktree/dj-my_main	1	zsh	:
+window	dj-my_main	0	:nvim	1	:*	6d81,417x89,0,0,50	:
+window	dj-my_main	1	:zsh	0	:-	b602,417x89,0,0{209x89,0,0,51,207x89,210,0,52}	:
+window	dj-my_main	2	:zsh	0	:	6d84,417x89,0,0,53	:

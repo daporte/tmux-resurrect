@@ -1,0 +1,4 @@
+pane	alacritty	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	alacritty	1	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	alacritty	0	:zsh	1	:*	daa2,417x89,0,0,5	:
+window	alacritty	1	:zsh	0	:-	daa3,417x89,0,0,6	:

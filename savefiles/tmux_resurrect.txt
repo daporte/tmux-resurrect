@@ -1,0 +1,4 @@
+pane	tmux_resurrect	0	0	:-	0	AsusRogFlowArch	:/home/daporte/.local/share/tmux/resurrect	1	nvim	:nvim last
+pane	tmux_resurrect	1	1	:*	0	AsusRogFlowArch	:/home/daporte/.local/share/tmux/resurrect	1	nvim	:nvim last
+window	tmux_resurrect	0	:nvim	0	:-	36f8,417x89,0,0,346	:
+window	tmux_resurrect	1	:nvim	1	:*	36f9,417x89,0,0,347	:

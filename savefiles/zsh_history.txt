@@ -1,0 +1,2 @@
+pane	zsh_history	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.zsh_history_dir	1	zsh	:
+window	zsh_history	0	:zsh	1	:*	76f2,417x89,0,0,402	:

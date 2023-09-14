@@ -1,0 +1,10 @@
+pane	ff-add_loss_logging	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_loss_logging	1	nvim	:nvim -S Session.vim
+pane	ff-add_loss_logging	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_loss_logging/fairseq_fork	1	zsh	:
+pane	ff-add_loss_logging	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_loss_logging/fairseq_fork/logsdir	0	zsh	:
+pane	ff-add_loss_logging	2	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_loss_logging	1	zsh	:
+pane	ff-add_loss_logging	3	0	:	0	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_loss_logging	0	zsh	:
+pane	ff-add_loss_logging	3	0	:	1	AsusRogFlowArch	:/home/daporte/projects/fairseq-fork-worktree/ff-add_loss_logging/fairseq_fork	1	zsh	:/home/daporte/.cache/gitstatus/gitstatusd-linux-x86_64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 32
+window	ff-add_loss_logging	0	:vim	1	:*	b6f1,417x89,0,0,121	off
+window	ff-add_loss_logging	1	:shell	0	:-	3882,417x89,0,0{209x89,0,0,122,207x89,210,0,123}	off
+window	ff-add_loss_logging	2	:git	0	:	b6f4,417x89,0,0,124	off
+window	ff-add_loss_logging	3	:zsh	0	:	7884,417x89,0,0{209x89,0,0,125,207x89,210,0,126}	:

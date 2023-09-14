@@ -1,0 +1,3 @@
+pane	wavs_processing	0	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/my_packages/wavs_processing	0	nvim	:nvim pyproject.toml
+pane	wavs_processing	0	1	:*	1	AsusRogFlowArch	:/home/daporte/projects/my_packages/wavs_processing	1	zsh	:
+window	wavs_processing	0	:zsh	1	:*	b886,417x89,0,0{209x89,0,0,375,207x89,210,0,376}	:

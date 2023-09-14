@@ -1,0 +1,4 @@
+pane	packer	0	1	:*	0	AsusRogFlowArch	:/home/daporte/.config/nvim	1	nvim	:nvim lua/theprimeagen/packer.lua
+pane	packer	1	0	:-	0	AsusRogFlowArch	:/home/daporte/.local/share/nvim/site/pack/packer/start/friendly-snippets/snippets/python	1	zsh	:
+window	packer	0	:nvim	1	:*	76f4,417x89,0,0,252	:
+window	packer	1	:zsh	0	:-	76f5,417x89,0,0,253	:

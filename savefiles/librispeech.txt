@@ -1,0 +1,7 @@
+pane	librispeech	0	0	:	0	AsusRogFlowArch	:/home/daporte/projects/libri-tts/libri-tts	1	nvim	:nvim -S Session.vim
+pane	librispeech	1	0	:-	0	AsusRogFlowArch	:/home/daporte/projects/libri-tts	1	zsh	:
+pane	librispeech	1	0	:-	1	AsusRogFlowArch	:/home/daporte/projects/libri-tts	0	zsh	:
+pane	librispeech	2	1	:*	0	AsusRogFlowArch	:/home/daporte/projects/libri-tts/libri-tts	1	zsh	:
+window	librispeech	0	:nvim	0	:	f6f8,417x89,0,0,209	:
+window	librispeech	1	:zsh	0	:-	8880,417x89,0,0{209x89,0,0,210,207x89,210,0,211}	:
+window	librispeech	2	:zsh	1	:*	76f2,417x89,0,0,212	:

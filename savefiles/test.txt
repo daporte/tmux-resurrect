@@ -1,0 +1,12 @@
+pane	alacritty	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim .alacritty.yml
+pane	alacritty	1	0	:-	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	alacritty	0	:nvim	1	:*	daa1,417x89,0,0,4	:
+window	alacritty	1	:zsh	0	:-	daa2,417x89,0,0,5	:
+
+pane	test	0	1	:*	0	AsusRogFlowArch	:/home/daporte/tests	1	zsh	:
+pane	test	1	0	:-	0	AsusRogFlowArch	:/home/daporte	0	zsh	:
+pane	test	1	0	:-	1	AsusRogFlowArch	:/home/daporte	1	zsh	:
+pane	test	2	0	:	0	AsusRogFlowArch	:/home/daporte	1	zsh	:
+window	test	0	:vim	1	:*	b6f5,417x89,0,0,334	off
+window	test	1	:shell	0	:-	44e5,417x89,0,0{182x89,0,0,335,234x89,183,0,336}	off
+window	test	2	:git	0	:	b6f8,417x89,0,0,337	off

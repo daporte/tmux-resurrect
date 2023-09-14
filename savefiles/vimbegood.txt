@@ -1,0 +1,2 @@
+pane	vimbegood	0	1	:*	0	AsusRogFlowArch	:/home/daporte	1	nvim	:nvim
+window	vimbegood	0	:nvim	1	:*	36f9,417x89,0,0,366	:
