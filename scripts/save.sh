@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
 
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+current_datetime=$(date +"%Y_%m_%d_%H_%M_%S")
+SAVE_DIR="$HOME/projects/tmux_resurrect-worktree/master/savefiles/$current_datetime"
 
 source "$CURRENT_DIR/variables.sh"
 source "$CURRENT_DIR/helpers.sh"
@@ -194,9 +196,10 @@ dump_panes() {
 			if is_session_grouped "$session_name"; then
 				continue
 			fi
+            mkdir -p $SAVE_DIR
 			full_command="$(pane_full_command $pane_pid)"
 			dir=$(echo $dir | sed 's/ /\\ /') # escape all spaces in directory path
-			echo "${line_type}${d}${session_name}${d}${window_number}${d}${window_active}${d}${window_flags}${d}${pane_index}${d}${pane_title}${d}${dir}${d}${pane_active}${d}${pane_command}${d}:${full_command}" >> "$PWD/../savefiles/${session_name}.txt"
+			echo "${line_type}${d}${session_name}${d}${window_number}${d}${window_active}${d}${window_flags}${d}${pane_index}${d}${pane_title}${d}${dir}${d}${pane_active}${d}${pane_command}${d}:${full_command}" >> $SAVE_DIR/$session_name
 		done
 }
 
@@ -210,7 +213,7 @@ dump_windows() {
 			automatic_rename="$(tmux show-window-options -vt "${session_name}:${window_index}" automatic-rename)"
 			# If the option was unset, use ":" as a placeholder.
 			[ -z "${automatic_rename}" ] && automatic_rename=":"
-			echo "${line_type}${d}${session_name}${d}${window_index}${d}${window_name}${d}${window_active}${d}${window_flags}${d}${window_layout}${d}${automatic_rename}"  >> "$PWD/../savefiles/${session_name}.txt"
+			echo "${line_type}${d}${session_name}${d}${window_index}${d}${window_name}${d}${window_active}${d}${window_flags}${d}${window_layout}${d}${automatic_rename}"  >> $SAVE_DIR/$session_name
 		done
 }
 

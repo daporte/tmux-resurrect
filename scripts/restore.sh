@@ -393,4 +393,4 @@ main() {
 		display_message "Tmux restore complete!"
 	fi
 }
-main
+#main
