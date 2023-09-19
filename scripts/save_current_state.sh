@@ -4,7 +4,7 @@ auto_save_interval_option="@continuum-save-interval"
 auto_save_interval_default="1"
 
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-source "$HOME/.tmux/tmux-resurrect-selective/scripts/helpers.sh"
+source "$HOME/.tmux/plugins/tmux-resurrect-selective/scripts/helpers.sh"
 
 current_timestamp() {
 	echo "$(date +%s)"
