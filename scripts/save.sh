@@ -2,8 +2,8 @@
 
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 current_datetime=$(date +"%Y_%m_%d_%H_%M_%S")
-SAVES_DIR="$HOME/projects/tmux_resurrect-worktree/master/savefiles/"
-SAVE_DIR="$HOME/projects/tmux_resurrect-worktree/master/savefiles/$current_datetime"
+SAVES_DIR="$HOME/.tmux/plugins/tmux-resurrect-selective/save_files"
+SAVE_DIR="$SAVES_DIR/$current_datetime"
 
 source "$CURRENT_DIR/variables.sh"
 source "$CURRENT_DIR/helpers.sh"

@@ -26,8 +26,9 @@ enough_time_since_last_run_passed() {
 main() {
     echo "HI"
 	if enough_time_since_last_run_passed; then
-        source $HOME/projects/tmux_resurrect-worktree/master/scripts/save.sh
-        cd $HOME/projects/tmux_resurrect-worktree/master/savefiles
+        source $HOME/.tmux/plugins/tmux-resurrect-selective/scripts/save.sh
+        # cd $HOME/projects/tmux_resurrect-worktree/master/savefiles
+        cd $SAVES_DIR
         dump_panes
         dump_windows
         capture_pane_contents
