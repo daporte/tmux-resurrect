@@ -17,7 +17,7 @@ add_resurrect_save_interpolation() {
 main() {
     echo "ABC"
 	add_resurrect_save_interpolation
-    run-shell "~/.tmux/plugins/tmux-resurrect-selective/scripts/save_current_state.sh"
+    "~/.tmux/plugins/tmux-resurrect-selective/scripts/save_current_state.sh"
 }
 main
 
