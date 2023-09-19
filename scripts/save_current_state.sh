@@ -17,7 +17,7 @@ enough_time_since_last_run_passed() {
 	local last_saved_timestamp="$(get_tmux_option "$last_auto_save_option" "0")"
 	# local interval_minutes="$(get_interval)"
 	# local interval_seconds="$((interval_minutes * 60))"
-	local interval_seconds=300
+	local interval_seconds=30
     echo $last_saved_timestamp
 	local next_run="$((last_saved_timestamp + $interval_seconds))"
 	[ "$(current_timestamp)" -ge "$next_run" ]
