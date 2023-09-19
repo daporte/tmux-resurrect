@@ -8,6 +8,7 @@ enough_time_since_last_run_passed() {
 	# local interval_minutes="$(get_interval)"
 	# local interval_seconds="$((interval_minutes * 60))"
 	local interval_seconds=60
+    echo $last_saved_timestamp
 	local next_run="$((last_saved_timestamp + $interval_seconds))"
 	[ "$(current_timestamp)" -ge "$next_run" ]
 }
