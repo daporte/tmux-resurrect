@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
-source "$CURRENT_DIR/scripts/helpers.sh"
+source "$HOME/.tmux/plugins/tmux-resurrect-selective/scripts/helpers.sh"
 
 save_command_interpolation="#($HOME/.tmux/plugins/tmux-resurrect-selective/scripts/save_current_state.sh)"
 
