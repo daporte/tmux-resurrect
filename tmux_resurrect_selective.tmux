@@ -3,7 +3,7 @@
 CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source "$CURRENT_DIR/scripts/helpers.sh"
 
-save_command_interpolation="#($CURRENT_DIR/scripts/save_current_state.sh)"
+save_command_interpolation="#($HOME/.tmux/plugins/tmux-resurrect-selective/scripts/save_current_state.sh)"
 
 add_resurrect_save_interpolation() {
 	local status_right_value="$(get_tmux_option "status-right" "")"
