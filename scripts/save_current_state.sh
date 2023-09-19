@@ -3,7 +3,8 @@ last_auto_save_option="@continuum-save-last-timestamp"
 auto_save_interval_option="@continuum-save-interval"
 auto_save_interval_default="1"
 
-source "$CURRENT_DIR/scripts/helpers.sh"
+CURRENT_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+source "$CURRENT_DIR/helpers.sh"
 
 current_timestamp() {
 	echo "$(date +%s)"
