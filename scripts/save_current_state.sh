@@ -3,6 +3,10 @@ last_auto_save_option="@continuum-save-last-timestamp"
 auto_save_interval_option="@continuum-save-interval"
 auto_save_interval_default="1"
 
+current_timestamp() {
+	echo "$(date +%s)"
+}
+
 enough_time_since_last_run_passed() {
 	local last_saved_timestamp="$(get_tmux_option "$last_auto_save_option" "0")"
 	# local interval_minutes="$(get_interval)"
