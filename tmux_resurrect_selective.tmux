@@ -12,7 +12,7 @@ add_resurrect_save_interpolation() {
 		local new_value="${save_command_interpolation}${status_right_value}"
 		set_tmux_option "status-right" "$new_value"
 	fi
-    "$(get_tmux_option "status-right" "")"
+    # "$(get_tmux_option "status-right" "")"
 }
 
 main() {
