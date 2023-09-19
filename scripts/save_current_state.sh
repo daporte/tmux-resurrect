@@ -1,7 +1,8 @@
 #!/bin/sh
+last_auto_save_option="@continuum-save-last-timestamp"
 
 enough_time_since_last_run_passed() {
-	# local last_saved_timestamp="$(get_tmux_option "$last_auto_save_option" "0")"
+	local last_saved_timestamp="$(get_tmux_option "$last_auto_save_option" "0")"
 	# local interval_minutes="$(get_interval)"
 	# local interval_seconds="$((interval_minutes * 60))"
 	local interval_seconds=60
