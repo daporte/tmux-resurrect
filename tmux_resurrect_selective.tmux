@@ -11,6 +11,8 @@ add_resurrect_save_interpolation() {
 	if ! [[ "$status_right_value" == *"$save_command_interpolation"* ]]; then
 		local new_value="${save_command_interpolation}${status_right_value}"
 		set_tmux_option "status-right" "$new_value"
+    else
+       echo "here"
 	fi
     # "$(get_tmux_option "status-right" "")"
 }
