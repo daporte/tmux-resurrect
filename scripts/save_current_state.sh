@@ -6,6 +6,9 @@ auto_save_interval_default="1"
 current_timestamp() {
 	echo "$(date +%s)"
 }
+set_last_save_timestamp() {
+	set_tmux_option "$last_auto_save_option" "$(current_timestamp)"
+}
 
 enough_time_since_last_run_passed() {
 	local last_saved_timestamp="$(get_tmux_option "$last_auto_save_option" "0")"
@@ -27,6 +30,7 @@ main() {
         capture_pane_contents
         cp -nrp $SAVES_DIR/last/* $SAVE_DIR
         ln -nsf $SAVE_DIR last
+        set_last_save_timestamp
 	fi
 }
 main
