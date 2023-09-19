@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 last_auto_save_option="@continuum-save-last-timestamp"
 auto_save_interval_option="@continuum-save-interval"
 auto_save_interval_default="1"
