@@ -295,8 +295,9 @@ handle_session_0() {
 
 restore_window_properties() {
 	local window_name
-	\grep '^window' $(last_resurrect_file) |
+	\grep '^window' $(last_resurrect_file) | # HERE
 		while IFS=$d read line_type session_name window_number window_name window_active window_flags window_layout automatic_rename; do
+            echo $window_layout
 			tmux select-layout -t "${session_name}:${window_number}" "$window_layout"
 
 			# Below steps are properly handling window names and automatic-rename
