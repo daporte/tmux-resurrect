@@ -173,20 +173,20 @@ new_pane() {
 }
 
 restore_pane() {
-    echo "hereere"
+    # echo "hereere"
 	local pane="$1"
 	while IFS=$d read line_type session_name window_number window_active window_flags pane_index pane_title dir pane_active pane_command pane_full_command; do
 		dir="$(remove_first_char "$dir")"
-        echo "here"
+        # echo "here"
 		pane_full_command="$(remove_first_char "$pane_full_command")"
-        echo "sesionname$session_name"
+        # echo "sesionname$session_name"
 		# if [ "$session_name" == "0" ]; then
             # echo "here"
 		# 	restored_session_0_true
 		# fi
-        echo "here"
+        # echo "here"
 		if pane_exists "$session_name" "$window_number" "$pane_index"; then
-            echo "there"
+            # echo "there"
 			if is_restoring_from_scratch; then
 				# overwrite the pane
 				# happens only for the first pane if it's the only registered pane for the whole tmux server
@@ -194,19 +194,19 @@ restore_pane() {
 				new_pane "$session_name" "$window_number" "$dir" "$pane_index"
 				tmux kill-pane -t "$pane_id"
 			else
-                echo "overthere"
+                # echo "overthere"
 				# Pane exists, no need to create it!
 				# Pane existence is registered. Later, its process also won't be restored.
 				register_existing_pane "$session_name" "$window_number" "$pane_index"
 			fi
 		elif window_exists "$session_name" "$window_number"; then
-            echo "overtherethere"
+            # echo "overtherethere"
 			new_pane "$session_name" "$window_number" "$dir" "$pane_index"
 		elif session_exists "$session_name"; then
-            echo "noidea"
+            # echo "noidea"
 			new_window "$session_name" "$window_number" "$dir" "$pane_index"
 		else
-            echo "smth"
+            # echo "smth"
 			new_session "$session_name" "$window_number" "$dir" "$pane_index"
 		fi
 		# set pane title
@@ -297,7 +297,7 @@ restore_window_properties() {
 	local window_name
 	\grep '^window' $(last_resurrect_file) | # HERE
 		while IFS=$d read line_type session_name window_number window_name window_active window_flags window_layout automatic_rename; do
-            echo $window_layout
+            # echo $window_layout
 			tmux select-layout -t "${session_name}:${window_number}" "$window_layout"
 
 			# Below steps are properly handling window names and automatic-rename
